@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "GitRepo\\MagetoExtension\\Logicrays\\Learn": ""
+            "Logicrays\\Learn\\": ""
         },
         "files": [
             "registration.php"
