@@ -1,0 +1,19 @@
+{
+    "name": "magento2/module-learn",
+    "description": "Magento 2 Learn Extension",
+    "type": "magento2-module",
+    "version": "dev-master",
+    "license": [
+        "OSL-3.0"
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GitRepo\\MagetoExtension\\Logicrays\\Learn": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
