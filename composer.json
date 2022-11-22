@@ -1,5 +1,5 @@
 {
-    "name": "magento2/module-learn",
+    "name": "logicrays/module-learn",
     "description": "Magento 2 Learn Extension",
     "type": "magento2-module",
     "version": "dev-master",
